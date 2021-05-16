@@ -10,7 +10,7 @@ This repo holds the code for a project regarding the visual exploration of the c
 #### How does the visualization work?
 - SARS-CoV holds 29751 base pairs 
 - SARS-CoV-2 holds 29903 base pairs
-- Based on the sequence of the nucleobases we draw a pixel in predifined direction.
+- Based on the sequence of the nucleobases we draw a pixel in a predifined direction.
 
 
 ![alt text](https://github.com/cassini-chris/Coronavirus/blob/main/readme/images/SARS2.JPG?raw=true)
